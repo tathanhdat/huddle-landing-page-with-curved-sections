@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
--   [Live site URL here](https://your-live-site-url.com)
+-   [Live site URL here](https://tathanhdat.github.io/huddle-landing-page-with-curved-sections/)
 
 ### Built with
 
